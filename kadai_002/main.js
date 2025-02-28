@@ -108,6 +108,7 @@ const gameOver = id => {
         }
     },10);
 
+    typedfield.textContent='';
     untypedfield.textContent='タイムアップ！';
     
 };
